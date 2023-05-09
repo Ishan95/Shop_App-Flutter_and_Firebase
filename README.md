@@ -1,0 +1,1 @@
+It is an E-Commerce application. After registering as a new user can login to the  application. After logging in the user can browse the products, create favorites, add to cart and purchase the products. Users can also add more items to the application.
